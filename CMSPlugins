@@ -1,0 +1,17 @@
+CMSPlugins/
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.md
+│   │   ├── feature_request.md
+│   └── workflows/
+│       └── ci.yml
+├── plugins/
+│   ├── __init__.py
+│   └── cms_plugins.py
+├── tests/
+│   ├── __init__.py
+│   └── test_cms_plugins.py
+├── .gitignore
+├── LICENSE
+├── README.md
+└── setup.py
